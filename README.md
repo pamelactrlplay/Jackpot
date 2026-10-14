@@ -16,13 +16,8 @@ Um jogo de caça-níqueis (Jackpot) simples, divertido e totalmente desenvolvido
 
 ## Como Executar o Projeto
 
-Não é necessário instalar nenhuma dependência ou servidor complexo! Siga os passos abaixo:
+Siga os passos abaixo:
 
-1. Clone este repositório na sua máquina:
-   ```bash
-   git clone [https://github.com/pamelactrlplay/Jackpot.git](https://github.com/pamelactrlplay/Jackpot.git)
-Abra a pasta do projeto.
-
-Dê um duplo clique no arquivo index.html (ou abra-o diretamente no seu navegador favorito).
-
+1. Abra a pasta do projeto via terminal. Use o comando _node server.js_ para rodar o projeto
+---
 Feito com 💜 por Pamela Rodrigues.
