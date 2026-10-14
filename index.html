@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo do Tucano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="jackpot-container">
+        <h1>Jogo do Tucano</h1>
+        
+        <div class="user-box">
+            <label for="username">Jogador:</label>
+            <input type="text" id="username" value="Convidado">
+        </div>
+
+        <div class="balance-box">
+            Saldo: R$ <span id="balance">1000</span>
+        </div>
+
+        <div class="slots">
+            <div class="slot" id="rolo0">-</div>
+            <div class="slot" id="rolo1">-</div>
+            <div class="slot" id="rolo2">-</div>
+        </div>
+
+        <button id="spinButton">Girar</button>
+        <p id="message"></p>
+
+        <div class="history-panel">
+            <h3>Histórico de Jogadas</h3>
+            <ul id="historyList">
+                <li>Nenhuma jogada ainda.</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

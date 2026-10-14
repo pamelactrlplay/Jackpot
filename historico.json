@@ -1,0 +1,893 @@
+[
+  {
+    "usuario": "Pamela",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:48:08.519Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:48:09.598Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:10.514Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:11.294Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:11.937Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "d",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:12.577Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 5000,
+    "venceu": true,
+    "data": "2026-10-13T15:48:13.583Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:14.149Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:14.677Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:15.165Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:15.625Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:16.073Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 5000,
+    "venceu": true,
+    "data": "2026-10-13T15:48:16.541Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "b",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:19.055Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:19.409Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:19.829Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:20.256Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:20.745Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:48:21.169Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:21.797Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:22.345Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:33.197Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "b",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:33.597Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:33.929Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:34.229Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:48:34.581Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:34.908Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:35.289Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:35.833Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:36.433Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:48:37.037Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:50.372Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:51.105Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:52.094Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:52.724Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:49:53.505Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:54.117Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:54.694Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:49:55.168Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:50:31.195Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "c",
+      "c"
+    ],
+    "saldoAtualizado": 25000,
+    "venceu": true,
+    "data": "2026-10-13T15:50:31.985Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:52:00.355Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:52:01.237Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:52:01.821Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:36.963Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:37.928Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:54:38.466Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:39.392Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:39.713Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:54:43.794Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:44.080Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:44.401Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:54:44.721Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:56:21.807Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:56:22.629Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T15:56:23.268Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:56:25.178Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:56:25.505Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:56:25.841Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T15:56:26.181Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "b"
+    ],
+    "saldoAtualizado": 5000,
+    "venceu": true,
+    "data": "2026-10-13T16:01:40.702Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:41.736Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:42.384Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T16:01:43.092Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:43.933Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1500,
+    "venceu": true,
+    "data": "2026-10-13T16:01:44.605Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "d"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:45.260Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:45.911Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:46.549Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "d",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:01:47.038Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "b",
+      "a"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:05:58.632Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "c",
+      "b",
+      "c"
+    ],
+    "saldoAtualizado": 800,
+    "venceu": false,
+    "data": "2026-10-13T16:05:59.332Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1200,
+    "venceu": true,
+    "data": "2026-10-13T16:11:40.590Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "c",
+      "a"
+    ],
+    "saldoAtualizado": 960,
+    "venceu": false,
+    "data": "2026-10-13T16:11:44.302Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 768,
+    "venceu": false,
+    "data": "2026-10-13T16:11:47.002Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 614.4,
+    "venceu": false,
+    "data": "2026-10-13T16:11:50.858Z"
+  },
+  {
+    "usuario": "Convidado",
+    "listaLetras": [
+      "b",
+      "c",
+      "b"
+    ],
+    "saldoAtualizado": 491.52,
+    "venceu": false,
+    "data": "2026-10-13T16:11:56.142Z"
+  },
+  {
+    "usuario": "Pamela",
+    "listaLetras": [
+      "a",
+      "c",
+      "c"
+    ],
+    "saldoAtualizado": 1200,
+    "venceu": false,
+    "data": "2026-10-13T16:14:56.078Z"
+  },
+  {
+    "usuario": "Pamela",
+    "listaLetras": [
+      "a",
+      "a",
+      "b"
+    ],
+    "saldoAtualizado": 960,
+    "venceu": false,
+    "data": "2026-10-13T16:14:59.086Z"
+  },
+  {
+    "usuario": "Pamela",
+    "listaLetras": [
+      "a",
+      "b",
+      "c"
+    ],
+    "saldoAtualizado": 768,
+    "venceu": false,
+    "data": "2026-10-13T16:15:01.658Z"
+  },
+  {
+    "usuario": "Pamela",
+    "listaLetras": [
+      "a",
+      "a",
+      "a"
+    ],
+    "saldoAtualizado": 1152,
+    "venceu": true,
+    "data": "2026-10-13T16:15:05.030Z"
+  }
+]
